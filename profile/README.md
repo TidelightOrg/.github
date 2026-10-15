@@ -6,11 +6,14 @@ Tidelight connects live market context, source-led research, exposure mapping, a
 
 > **Event → Evidence → Exposure → Scenario → Decision → Execution**
 
-## Platform
+<details>
+<summary>Platform</summary>
 
 A calm, connected workspace for understanding what moves markets and deciding what to do next.
 
 Research · Exposure · Agent Flow · Paper-first trading · Decision history
+
+</details>
 
 <details>
 <summary>For people who want to build with us</summary>
@@ -25,11 +28,14 @@ Build with Tidelight’s market intelligence layer through documented APIs, scop
 
 </details>
 
-## Official links
+<details>
+<summary>Official links</summary>
 
 [Website](https://tidelight.app) · [Workspace](https://tidelight.app/overview) · [Research](https://tidelight.app/research) · [Developers](https://tidelight.app/developers)
 
 For support: [support@tidelight.app](mailto:support@tidelight.app)
+
+</details>
 
 ---
 
