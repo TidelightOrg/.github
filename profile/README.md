@@ -12,15 +12,18 @@ A calm, connected workspace for understanding what moves markets and deciding wh
 
 Research · Exposure · Agent Flow · Paper-first trading · Decision history
 
-## Developer ecosystem
+<details>
+<summary>For people who want to build with us</summary>
+
+### Developer ecosystem
 
 Build with Tidelight’s market intelligence layer through documented APIs, scoped credentials, and MCP access.
 
 [Explore the developer platform](https://tidelight.app/developers)
 
-## Documentation
-
 [Read the Tidelight Handbook](https://docs.tidelight.app)
+
+</details>
 
 ## Official links
 
